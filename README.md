@@ -11,11 +11,6 @@ I followed the core steps from the official [Microsoft Learning Lab 11](https://
 
 ---
 
-## Architecture Diagram
-*(Add your own diagram here — recommend showing Azure subscription, Log Analytics workspace, Sentinel, data connectors, analytic rule, playbook, and incident workflow.)*
-
----
-
 ## Objectives
 - Onboard Microsoft Sentinel and integrate with a Log Analytics Workspace.  
 - Connect the **Azure Activity** data connector to ingest subscription-level activity logs.  
