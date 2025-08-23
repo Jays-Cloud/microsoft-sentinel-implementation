@@ -57,16 +57,6 @@ I followed the core steps from the official [Microsoft Learning Lab 11](https://
 
 ---
 
-## Screenshots
-*(Replace these placeholders with your own screenshots)*  
-- Sentinel Overview Dashboard  
-- Azure Activity Connector Configuration  
-- Analytic Rule Setup  
-- Playbook (Logic App) Workflow  
-- Triggered Incident with Linked Playbook Actions  
-
----
-
 ## Next Steps
 - Connect additional high-value data sources (e.g., Microsoft Defender for Endpoint, Azure AD sign-ins).  
 - Develop custom hunting queries for common attack techniques like lateral movement or persistence.  
